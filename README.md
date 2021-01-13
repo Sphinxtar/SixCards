@@ -6,5 +6,5 @@ Write one code base and compile to native Web, Android or IOS application and pu
 3) expo init &lt;directory name&gt;
 4) pick a minimal javascript template
 5) cd &lt;directory name&gt;
-6) cp img/ with images in it there and cp SixCards.js App.js and delete App.css
+6) cp img/ with images in there, cp SixCards.js overwrite App.js and delete App.css
 7) expo start:web
