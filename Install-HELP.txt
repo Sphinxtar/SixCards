@@ -27,6 +27,9 @@ $ npm install react-refresh@^0.8.2
 $ npm install expo-cli@4.4.3
 $ npm audit
 $ npm list
+ Add all the tools installed to your path, maybe put it in your ~/.bashrc
+$ export PATH=$PATH:`npm bin`
+
  from there you can call either one of the following 
  to initialize a react native app from a template
 $ expo init yourProjectName --npm
