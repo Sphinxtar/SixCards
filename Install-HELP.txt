@@ -38,5 +38,5 @@ $ npx create-react-native-app --use-npm
  To run/play SixCards!:
  Download and unzip, copy just the img/ directory and images in it to
  your project directory. Overwrite App.js with either App.js for the web
- or SixCards.js for the Android version
- 'npm run web', or, 'expo start', both seem to work the same.
+ or SixCards.js for the Android version then to start the service and open it in your browser:
+ $ expo start
